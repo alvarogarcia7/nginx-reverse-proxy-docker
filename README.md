@@ -20,5 +20,14 @@ make run
 
 On `local.dev` (configure it on /etc/hosts), you will have access to the $HOST_IP port 8080.
 
+## How to extend it
+
+### Host/hostname
+
+Configure the `reverseproxy.conf` file, to change that hostname
+
+### Port
+
+Configure the `reverseproxy.conf` file, to change that port
 
 

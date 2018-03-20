@@ -33,3 +33,7 @@ Configure the `reverseproxy.conf` file, to change that port
 ## A note on security
 
 This is a dev environment, therefore the certificates are self-generated (and published on the repo). **DO NOT** use this same setup for a production environment
+
+## Contributing
+
+This project is open to contributions, please send an issue or a pull request
